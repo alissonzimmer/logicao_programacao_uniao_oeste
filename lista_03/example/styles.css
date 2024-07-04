@@ -1,0 +1,17 @@
+p {
+    color: red;
+}
+
+.paragrafo {
+    color: yellow;
+}
+
+#p3 {
+    width: 100%;
+}
+
+@media (max-width: 600px) {
+    .paragrafo {
+        color: green;
+    }
+}
